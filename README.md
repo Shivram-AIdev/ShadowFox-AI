@@ -6,7 +6,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Vinit21592/ShadowFox-AIML-Internship.git
+git clone https://github.com/Shivram-AIdev/ShadowFox-AIML-Internship.git
 ```
 
 ### 2. Navigate to the Project Directory and press "code ." this will open vscode editor
